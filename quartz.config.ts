@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'goatcounter', websiteId: 'my-goatcounter-tsunching’,
+      provider: 'goatcounter', websiteId: 'my-goatcounter-tsunching',
     },
     locale: "en-US",
     baseUrl: "friedasong.github.io/thoughts-of-frieda",
