@@ -4,7 +4,7 @@ Date: 2025-02-02
 comments: false
 ---
 
-之前在github.io上面讀到一篇文章叫做：the quiet art of attention，當時就覺得很喜歡他的版面跟內容。
+之前在另外一個github.io的網站上面讀到一篇文章叫做：the quiet art of attention，當時就覺得很喜歡他的版面跟內容。
 一直想要一個版面乾淨沒有廣告的blog，終於實現了。
 
 之前遲遲沒有做，除了覺得的自己不會之外，還有另外一個原因是沒看到喜歡的模板。
