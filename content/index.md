@@ -9,7 +9,7 @@ comments: false
 
 
 最近剛好看到Quartz這個static site generator，覺得概念跟模板都還蠻喜歡的，所以就花了一點時間試著建了一個。
-（感覺跟Ｏbsidian有點像ＸＤ）
+（感覺跟obsidian有點像ＸＤ）
 
 
 總而言之，一直想要一個版面乾淨沒有廣告的blog，終於實現了。
