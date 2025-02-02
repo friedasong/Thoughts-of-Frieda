@@ -17,14 +17,15 @@ export const sharedPageComponents: SharedLayout = {
       category: 'Announcements',
       // from data-category-id
       categoryId: 'DIC_kwDONzBIQM4CmjYP',
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-TW"
-        crossorigin="anonymous"
-        async
-themeUrl: "https://friedasong.github.io/Thoughts-of-Frieda/static/giscus", // corresponds to quartz/static/giscus/
-      lightTheme: "light-theme", // corresponds to light-theme.css in quartz/static/giscus/
-      darkTheme: "dark-theme", // corresponds to dark-theme.css quartz/static/giscus/
+      // other Giscus configuration
+        dataInputPosition: "top", // Corrected from data-input-position="top"
+        dataTheme: "preferred_color_scheme", // Corrected from data-theme="preferred_color_scheme"
+        dataLang: "zh-TW", // Corrected from data-lang="zh-TW"
+        crossorigin: "anonymous", // Corrected from crossorigin="anonymous"
+        async: true, // Corrected from async (boolean flag should be set like this)
+        themeUrl: "https://friedasong.github.io/Thoughts-of-Frieda/static/giscus", // corresponds to quartz/static/giscus/
+        lightTheme: "light-theme", // corresponds to light-theme.css in quartz/static/giscus/
+        darkTheme: "dark-theme", // corresponds to dark-theme.css quartz/static/giscus/
     }
   }),
 ],
