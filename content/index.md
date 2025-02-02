@@ -16,4 +16,4 @@ comments: false
 但在找哪裡出錯的過程中還算是蠻樂在其中，很有趣。
 
 
-- [Musings & Ramblings](content/Musings\ &\ Ramblings/) : 人生需要定期復盤
+- [[Musings & Ramblings/]]: 人生需要定期復盤
