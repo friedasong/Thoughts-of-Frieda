@@ -14,6 +14,8 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: 'goatcounter', websiteId: 'my-goatcounter-tsunching',
+      <script data-goatcounter="https://tsunching.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
     },
     locale: "en-US",
     baseUrl: "friedasong.github.io/thoughts-of-frieda",
