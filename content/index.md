@@ -1,5 +1,6 @@
 ---
-title:New Year resolution
+title: New Year resolution
+Date: 2025-02-02
 ---
 
 之前在github.io上面讀到一篇文章叫做：the quiet art of attention，當時就覺得很喜歡他的版面跟內容。
