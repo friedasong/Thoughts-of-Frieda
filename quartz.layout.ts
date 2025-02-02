@@ -17,6 +17,9 @@ export const sharedPageComponents: SharedLayout = {
       category: 'Announcements',
       // from data-category-id
       categoryId: 'DIC_kwDONzBIQM4CmjYP',
+themeUrl: "https://friedasong.github.io/Thoughts-of-Frieda", // corresponds to quartz/static/giscus/
+      lightTheme: "light-theme", // corresponds to light-theme.css in quartz/static/giscus/
+      darkTheme: "dark-theme", // corresponds to dark-theme.css quartz/static/giscus/
     }
   }),
 ],

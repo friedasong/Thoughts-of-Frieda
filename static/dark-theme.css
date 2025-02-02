@@ -1,13 +1,52 @@
-afterBody: [
-  Component.Comments({
-    provider: 'giscus',
-    options: {
-      // Other options
- 
-      themeUrl: "https://friedasong.github.io/Thoughts-of-Frieda/static/", // corresponds to quartz/static/giscus/
-      lightTheme: "light-theme", // corresponds to light-theme.css in quartz/static/giscus/
-      darkTheme: "dark-theme", // corresponds to dark-theme.css quartz/static/giscus/
-    }
-  }),
-],
+/* Dark theme for Giscus comments with dark shades and grey-white accents */
+body {
+  background-color: #121212 !important; /* Dark background */
+  color: #e0e0e0 !important; /* Light grey text for better readability */
+}
 
+.giscus {
+  background-color: #1e1e1e !important; /* Slightly lighter dark background for Giscus container */
+  border: 1px solid #333333 !important; /* Dark border */
+}
+
+.giscus .giscus-comment-box {
+  background-color: #333333 !important; /* Dark grey background for comment box */
+  color: #e0e0e0 !important; /* Light grey text */
+}
+
+.giscus .giscus-comment-form textarea {
+  background-color: #444444 !important; /* Slightly darker grey for text area */
+  color: #e0e0e0 !important; /* Light grey text */
+  border: 1px solid #555555 !important; /* Dark grey border for the input field */
+}
+
+.giscus .giscus-comment {
+  border-top: 1px solid #333333 !important; /* Darker grey separator for comments */
+}
+
+.giscus .giscus-avatar {
+  border: 2px solid #444444 !important; /* Darker border around avatars */
+}
+
+/* Adjust button and link colors */
+.giscus button, .giscus a {
+  color: #4caf50 !important; /* Green for buttons and links */
+}
+
+.giscus button:hover, .giscus a:hover {
+  color: #66bb6a !important; /* Lighter green on hover */
+}
+
+/* Adjust other UI elements */
+.giscus .giscus-header {
+  background-color: #222222 !important; /* Darker background for header */
+  border-bottom: 1px solid #333333 !important; /* Darker bottom border */
+}
+
+.giscus .giscus-comment-header {
+  background-color: #2a2a2a !important; /* Dark grey background for comment header */
+}
+
+.giscus .giscus-comment-footer {
+  background-color: #2a2a2a !important; /* Dark grey footer background */
+}
