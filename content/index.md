@@ -15,3 +15,5 @@ comments: false
 雖然在創建的過程中，因為對這個知識體系毫無概念，所以做了一些愚蠢的事，也浪費不少時間。
 但在找哪裡出錯的過程中還算是蠻樂在其中，很有趣。
 
+
+- [Musings & Ramblings](content/Musings%20&%20Ramblings/) : 人生需要定期復盤
