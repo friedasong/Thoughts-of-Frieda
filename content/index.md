@@ -1,6 +1,7 @@
 ---
 title: New Year resolution
 Date: 2025-02-02
+comments: false
 ---
 
 之前在github.io上面讀到一篇文章叫做：the quiet art of attention，當時就覺得很喜歡他的版面跟內容。
@@ -13,10 +14,4 @@ Date: 2025-02-02
 
 雖然在創建的過程中，因為對這個知識體系毫無概念，所以做了一些愚蠢的事，也浪費不少時間。
 但在找哪裡出錯的過程中還算是蠻樂在其中，很有趣。
-
----
-title: Comments disabled here!
-comments: false
----
-
 
